@@ -1,0 +1,6 @@
+.gallery-full-left .primary {float:left; width:48%;overflow:hidden;}
+div.secondary {float:right; width:48%; padding-bottom:10px;}
+.gallery-full-left .gallery .exhibit-item {float:left; margin-right:18px; margin-bottom:18px;}
+.exhibit-text {margin-top: 1em;}
+#item-full-text {clear: both; padding-top: 2em;} 
+img.spacer{padding-top:10px;}    
