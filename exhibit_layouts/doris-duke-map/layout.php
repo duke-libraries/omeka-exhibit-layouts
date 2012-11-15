@@ -10,7 +10,8 @@
 <!-- <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAyd8Ez46q598IKMNLNbUO9RTbHIotSlz7z8MSqWC_WMDTAjxWXxQ08mhs95XefmX1qPzksMdiZ4u7NQ" type="text/javascript"></script>       -->
 <script src="http://maps.google.com/maps/api/js?v=3.2&sensor=false"></script>
 
-<script type="text/javascript" src="http://openlayers.org/api/OpenLayers.js"></script>
+<!-- <script type="text/javascript" src="http://openlayers.org/api/Open Layers.js"></script > -->
+<script type="text/javascript" src="http://library.duke.edu/media/ js/OpenLayers-2.11/OpenLayers. js"></script>
 <script type="text/javascript" src="http://js.mapbox.com/ol/2.8/mapbox.js"></script>
 
 <style type="text/css">    
